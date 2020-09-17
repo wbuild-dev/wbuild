@@ -1,7 +1,7 @@
 
 <img src="https://github.com/wbuild-dev/wbuild/raw/master/wbuild.png">
 
-wbuild is an online tool to create websites [try now](https://wbuild.dev) or create issues [here](https://github.com/wbuild-dev/wbuild/issues) 
+wbuild is an online tool to create websites [try now](https://wbuild.dev) or create issue [here](https://github.com/wbuild-dev/wbuild/issues) 
 
 ## Credits
 wbuild is built on top many open source libraries and free tools. Here are some of them
