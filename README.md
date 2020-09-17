@@ -5,7 +5,7 @@ wbuild is an online tool to create websites [try now](https://wbuild.dev) or cre
 
 
 ## Credits
-wbuild is built on top many open source libraries and tools. Here are some of them
+wbuild is built on top many open source libraries and free tools. Here are some of them
 
 * [VvvebJs](https://github.com/givanz/VvvebJs) 
 * [Bulma](https://bulma.io)
